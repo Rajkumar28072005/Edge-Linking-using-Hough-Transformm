@@ -1,4 +1,6 @@
 # Edge-Linking-using-Hough-Transform
+## Name: RAJKUMAR G
+## Register no: 212223230166
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
 
